@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Stable Diffusion Image to Prompt</title>
-</head>
 <body>
 <h1>Welcome to Stable Diffusion Image to Prompt</h1>
 
