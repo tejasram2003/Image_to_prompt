@@ -15,8 +15,11 @@
 <p>Follow these steps to get started with the project:</p>
 <ol>
 <li>Clone the repository.</li>
+<code>git clone https://github.com/tejasram2003/Image_to_prompt.git</code>
 <li>Install the required dependencies.</li>
+<code>pip install -r requirements.txt</code>
 <li>Run the project.</li>
+<code>python manage.py runserver</code>
 </ol>
 
 <h2>Django Deployment</h2>
@@ -32,7 +35,5 @@
 <h2>Contributing</h2>
 <p>Contributions are welcome! Fork the repository, make your changes, and submit a pull request.</p>
 
-<h2>License</h2>
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 </body>
 </html>
